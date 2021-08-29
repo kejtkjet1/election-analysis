@@ -5,7 +5,7 @@ Election Analysis with Python
 
 ### Purpose
 
-We looked to perform election results audit for the election commission. We initially evaluated the winning candidates while working on the class modules, but the election sommion also needed to break out the data by additional variables. 
+We looked to perform election results audit for the election commission. We initially evaluated the winning candidates while working on the class modules, but the election commission also needed to break out the data by additional variables. 
 ## Election Results
 
 - The contressional election received: 369,711 Total Votes
