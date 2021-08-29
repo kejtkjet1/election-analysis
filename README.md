@@ -10,7 +10,7 @@ We looked to perform election results audit for the election commission. We init
 
 - The contressional election received: 369,711 Total Votes
 
-- Resutlts by county
+- Results by county
     - Jefferson: 10.5% (38,855)
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
@@ -29,9 +29,9 @@ The summary of the results can be seen on the image below:
 
 ![electionsummary.png](https://github.com/kejtkjet1/election-analysis/blob/main/resources/electionsummary.png)
 
-The CSV file we used to analize the results: https://github.com/kejtkjet1/stock-analysis/blob/main/VBA_Challenge.xlsm
+The CSV file we used to analize the results: https://github.com/kejtkjet1/election-analysis/blob/main/resources/election_results.csv
 
-The Txt file with the results summary can be located under: https://github.com/kejtkjet1/stock-analysis/blob/main/VBA_Challenge.xlsm
+The Txt file with the results summary can be located under: https://github.com/kejtkjet1/election-analysis/blob/main/analysis/election_results.txt
 
 ## Summary
 
