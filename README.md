@@ -15,7 +15,7 @@ We looked to perform election results audit for the election commission. We init
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
 
-- The county which received the largest nubmer of votes: 306,055
+- The county which received the largest nubmer of votes: Denver 306,055
 
 - Resutlts by candidate
     - Charles Casper Stockham: 23.0% (85,213)
