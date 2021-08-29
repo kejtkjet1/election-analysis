@@ -36,5 +36,5 @@ The Txt file with the results summary can be located under: https://github.com/k
 ## Summary
 
 - This Python Script is very versatile, it can be used to perform elecion audits for other elections. Few possible modifications to make it more versatile
-    - We could add additional variables if the csv captured demographics of the voting public and perform similar analysis by demographic breakouts
+    - We could add additional variables if the csv captured demographics of the voting public we could perform similar analysis by demographic breakouts
     - Alternatively we could look to perform an analysis of winning candidates per election district 
