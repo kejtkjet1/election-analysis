@@ -8,7 +8,7 @@ Election Analysis with Python
 We looked to perform election results audit for the election commission. We initially evaluated the winning candidates while working on the class modules, but the election commission also needed to break out the data by additional variables. 
 ## Election Results
 
-- The contressional election received: 369,711 Total Votes
+- The congressional election received: 369,711 Total Votes
 
 - Results by county
     - Jefferson: 10.5% (38,855)
